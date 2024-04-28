@@ -7,7 +7,7 @@
 - You can reach out to me via email sedaydin@gmx.de
 
 ```javascript
-const Seda = {
+var Seda = {
   name: 'Seda Aydin',
   age: 35,
   studied: 'computer linguistics',
