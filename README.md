@@ -10,7 +10,7 @@
 var Seda = {
   name: 'Seda Aydin',
   age: 35,
-  studied: 'computer linguistics',
+  studied: 'computer linguistics and computer science',
   institution: 'Ludwig Maximilians University',
   interests: ['coffee', 'gym', 'food']
 };
@@ -18,6 +18,8 @@ var Seda = {
 ---
 
 I have experience and feel comfortable working with these:
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 - ![Haskell](https://img.shields.io/static/v1?style=for-the-badge&message=Haskell&color=5D4F85&logo=Haskell&logoColor=FFFFFF&label=)
 - ![SQL](https://img.shields.io/badge/SQL-SQL-blue)
