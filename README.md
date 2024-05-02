@@ -10,9 +10,8 @@
 var Seda = {
   name: 'Seda Aydin',
   age: 28,
-  studied: 'computer linguistics and computer science',
-  institution: 'Ludwig Maximilians University',
-  interests: ['coffee', 'gym', 'food']
+  studied: 'computational linguistics and computer science',
+  institution: 'Ludwig Maximilians University'
 };
 ```
 ---
