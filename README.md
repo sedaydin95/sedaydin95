@@ -4,13 +4,13 @@
 
 - I am Seda Aydin
 - Currently Learning Web Development
-- You can reach out to me via email sedaydin@gmx.de
+- You can reach out to me via email aydin.seda@outlook.de
 
 ```javascript
 var Seda = {
   name: 'Seda Aydin',
-  age: 28,
-  studied: 'computational linguistics and computer science',
+  age: 29,
+  studied: 'Computational Linguistics and Computer Science',
   institution: 'Ludwig Maximilians University'
 };
 ```
