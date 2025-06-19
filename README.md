@@ -9,7 +9,6 @@
 ```javascript
 var Seda = {
   name: 'Seda Aydin',
-  age: 29,
   studied: 'Computational Linguistics and Computer Science',
   institution: 'Ludwig Maximilians University'
 };
