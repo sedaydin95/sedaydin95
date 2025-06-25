@@ -3,7 +3,6 @@
 # Hey👋, Welcome to my github!
 
 - I am Seda Aydin
-- Currently Learning Web Development
 - You can reach out to me via email aydin.seda@outlook.de
 
 ```javascript
